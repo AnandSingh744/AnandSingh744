@@ -3,7 +3,7 @@
 -  I’m currently learning C++,Python
 -  insta.id - i.anand744  
 -  Pronouns: He/Him
--  1st year student ...
+-  1st year student in Hansraj College,DU
 
 
 
