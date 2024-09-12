@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @AnandSingh744
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Hi, I’m @AnandSingh744
+-  I’m interested in playing sports like cricket,football,kho kho etc..
+-  I’m currently learning C++,Python
+-  insta.id - i.anand744  
+-  Pronouns: He/Him
 
-<!---
-AnandSingh744/AnandSingh744 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
