@@ -3,6 +3,7 @@
 -  I’m currently learning C++,Python
 -  insta.id - i.anand744  
 -  Pronouns: He/Him
+-  1st year student ...
 
 
 
